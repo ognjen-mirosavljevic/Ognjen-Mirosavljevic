@@ -1,34 +1,50 @@
 # 👋 Hi, I'm Ognjen
 
-I'm a Software Engineering student passionate about **C++**, **Java**, **system-level programming**, and **data structures**. I enjoy building projects that combine algorithms, simulation, and clean architecture — and I like understanding what's happening under the hood.
+I'm a Software Engineering student interested in **backend development, system-level programming, and software architecture**. I enjoy building complete applications as well as exploring lower-level concepts such as operating systems, memory management, concurrency, and networking.
 
 ---
 
-### 🚀 Projects (Selected)
-- **🖥️ Mini C++ Shell** — Custom command-line interpreter with piping, redirection and built-in commands  
-- **✈️ Airport Flight Simulator (Java GUI)** — Visual simulation of airports and flight paths on a world map  
-- **🌳 B\*-Tree Contact Manager (C++)** — Advanced tree structure with insert/delete, BFS search and file import  
-- **💎 Dual-Heap Simulator (C++)** — Max-heap + min-heap system with merging, extraction and scripted simulation  
-- **🌐 Enterprise Network Simulation** — OSPF, RIP, DHCP, ACL, DNS, redistribution and Telnet in Cisco Packet Tracer  
+### 🚀 Selected Projects
+
+* **🔧 MojMajstor — Service Marketplace Web Application**
+  Full-stack web platform connecting users with service professionals. Features user authentication, service listings, search and filtering, reviews, messaging, and role-based functionality.
+
+* **⚙️ RISC-V Operating System Kernel — C++ / Assembly**
+  Educational operating system kernel for the RISC-V architecture featuring custom memory management, threads, scheduling, semaphores, system calls, privilege-level transitions, interrupt handling, and asynchronous console I/O. Developed and tested using QEMU and GDB.
+
+* **🖥️ Mini C++ Shell**
+  Custom command-line interpreter supporting piping, I/O redirection, and built-in commands.
+
+* **✈️ Airport Flight Simulator — Java GUI**
+  Visual simulation of airports and flight paths on a world map.
+
+* **🌳 B*-Tree Contact Manager — C++**
+  Implementation of a B*-Tree supporting insertion, deletion, search, traversal, and file-based data import.
+
+* **🌐 Enterprise Network Simulation**
+  Network topology implementing OSPF, RIP, DHCP, ACL, DNS, route redistribution, and Telnet using Cisco Packet Tracer.
 
 ---
 
 ### 🛠️ Tech & Skills
-**Languages:** C++, Java, Python  
-**Concepts:** OOP, Data Structures, Algorithms, Design Patterns  
-**Tools:** Git, VS Code, IntelliJ, Packet Tracer  
-**Networking:** OSPF, RIP, ACL, DHCP, DNS, Redistribution (Cisco simulated environment)
+
+**Languages:** C++, Java, Python
+**Core:** OOP, Data Structures, Algorithms, Design Patterns, Multithreading, Operating Systems
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, QEMU, GDB, Cisco Packet Tracer
+**Networking:** TCP/IP, OSPF, RIP, ACL, DHCP, DNS
 
 ---
 
 ### 📫 Contact
-- **GitHub:** https://github.com/ognjen-mirosavljevic  
-- **Email:** *ognjen.mirosaljevic.5@gmail.com*
+
+* **GitHub:** https://github.com/ognjen-mirosavljevic
+* **Email:** [ognjen.mirosaljevic.5@gmail.com](mailto:ognjen.mirosaljevic.5@gmail.com)
 
 ---
 
-### ✅ What I'm looking for
-Actively seeking **internships / practical experience** where I can grow as a software engineer, contribute to real-world projects, and learn from experienced developers.
+### 🎯 Currently
+
+I'm currently looking for **software engineering internships and practical experience** where I can contribute to real-world projects, strengthen my engineering skills, and learn from experienced developers.
 
 ---
 
